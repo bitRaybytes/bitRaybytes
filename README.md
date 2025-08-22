@@ -73,7 +73,7 @@
 ![pfSense](https://img.shields.io/badge/pfSense-212B36?style=for-the-badge&logo=pfsense&logoColor=007DC3)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack-ng-34A8DB?style=for-the-badge&logo=aircrack-ng&logoColor=white)
 ![Proxychains](https://img.shields.io/badge/Proxychains-2E2E2E?style=for-the-badge&logo=torproject&logoColor=7E4798)
-
+![Metasploitable](https://img.shields.io/badge/Metasploitable-1F1F1F?style=for-the-badge&logo=metasploit&logoColor=39FF14)
 
 ---
 
