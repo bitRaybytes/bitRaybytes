@@ -6,10 +6,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 💻 Begeistert von **Java**, **Webentwicklung** und **Cybersecurity**  
+- 💻 Begeistert von **Java**, **Webentwicklung** und **Cybersecurity**
+- 👨🏻‍💻 Betriebssysteme nutze ich überwiegend Linux, Mac und Windows (Host als VM für Linux)
 - 🎯 Aktuell lerne ich viel **Java**, **SQL**, **Python**, **JavaScript**  und **BashScripting**
-- 🚀 Arbeite an Projekten von **Schul-Apps**, **Tools** bis hin zu **Webprojekten**  
-- 🔐 Ziel: Einstieg in die **Cybersecurity** (PenTesting & Security Analysis)  
+- 🚀 Arbeite an Projekten von **Schul-Apps**, **Tools** bis hin zu **Webprojekten**
+- 🔐 Ziel: Einstieg in die **Cybersecurity** (PenTesting & Security Analysis)
 
 ---
 
@@ -63,6 +64,7 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bitRaybytes&show_icons=true&theme=tokyonight" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bitRaybytes&theme=tokyonight" alt="streak" />
@@ -74,6 +76,7 @@
 ---
 
 ### 🌐 Connect with me
+
 <p align="left">
   <a href="https://github.com/bitRaybytes" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
