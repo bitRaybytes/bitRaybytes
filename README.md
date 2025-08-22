@@ -15,6 +15,10 @@
 - 🎯 Aktuell lerne ich viel **Java**, **SQL**, **Python**, **JavaScript** und **BashScripting**
 - 🚀 Arbeite an Projekten von **Schul-Apps**, **eigenen Tools** bis hin zu **Webprojekten**
 - 🔐 Ziel: Einstieg in die **Cybersecurity** (PenTesting & Security Analysis)
+- 🗂️ Entwickle **Datenbank- und Dashboard-Lösungen**, z.B. Stundenplan-Tools und CRM-Systeme
+- 📝 Setze **MVC-Architektur** in eigenen Java-Anwendungen um, wie z.B. in der Karteikarten-App
+- 📊 Implementiere **Projekt-Funktionalitäten** wie Lernfortschritt, Multiple-Choice-Management und dynamische Anzeige von Daten in Apps
+
 
 ---
 
