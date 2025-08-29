@@ -81,12 +81,6 @@
 
 ----
 
-![Learning Java](https://img.shields.io/badge/Learning-Java_OOP-blue?style=for-the-badge&logo=openjdk)
-![Exploring Cybersecurity](https://img.shields.io/badge/Exploring-PenTesting-green?style=for-the-badge&logo=gnuprivacyguard)
-
-
-----
-
 ### 🔐 Cybersecurity Tools & Technologien
 
 ![Nmap](https://img.shields.io/badge/Nmap-7C7C7C?style=for-the-badge&logo=nmap&logoColor=white)
