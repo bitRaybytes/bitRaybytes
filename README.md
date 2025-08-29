@@ -5,19 +5,26 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ray</h1>
-<h3 align="center">Fachinformatiker für Anwendungsentwicklung (in Umschulung)</h3>
+<h3 align="center">🎓 Umschulung zum Fachinformatiker für Anwendungsentwicklung (07/2024–07/2026)</h3>  
+<h3 align="center">📚 Fokus: Java, Datenbanken, Netzwerke, Cybersecurity</h3>
 
 ---
 
+![Learning Java](https://img.shields.io/badge/Learning-Java_OOP-blue?style=for-the-badge&logo=openjdk)
+![Exploring Cybersecurity](https://img.shields.io/badge/Exploring-PenTesting-green?style=for-the-badge&logo=gnuprivacyguard)
+
+
 ### 👨‍💻 About Me
+- 🎓 Umschulung zum Fachinformatiker für Anwendungsentwicklung (07/2024–07/2026)  
+- 📚 Fokus: Java, Datenbanken, Netzwerke, Cybersecurity
 - 💻 Begeistert von **Programmierung**, **Webentwicklung** und **Cybersecurity**
-- 👨🏻‍💻 Betriebssysteme nutze ich überwiegend Linux, Mac und Windows (Host als VM für Linux)
+- 👨🏻‍💻 Betriebssysteme nutze ich überwiegend Linux, Mac und Windows (Host für VMs)
 - 🎯 Aktuell lerne ich viel **Java**, **SQL**, **Python**, **JavaScript** und **BashScripting**
 - 🚀 Arbeite an Projekten von **Schul-Apps**, **eigenen Tools** bis hin zu **Webprojekten**
-- 🔐 Ziel: Einstieg in die **Cybersecurity** (PenTesting & Security Analysis)
 - 🗂️ Entwickle **Datenbank- und Dashboard-Lösungen**, z.B. Stundenplan-Tools und CRM-Systeme
 - 📝 Setze **MVC-Architektur** in eigenen Java-Anwendungen um, wie z.B. in der Karteikarten-App
 - 📊 Implementiere **Projekt-Funktionalitäten** wie Lernfortschritt, Multiple-Choice-Management und dynamische Anzeige von Daten in Apps
+- 🔐 Ziel: Einstieg in die **Cybersecurity** (PenTesting & Security Analysis)
 
 
 ---
@@ -66,6 +73,20 @@
 
 ---
 
+### 📐 Software-Architektur & Patterns
+- MVC-Architektur in Java (Swing-Apps, Lernkarten-App)
+- Nutzung von Design Patterns (Observer, Listener, DAO)
+- Relationale Datenbanken (MySQL, MariaDB, SQLite) – CRUD-Operationen, ORM
+- REST-APIs (in Planung mit Node.js / Express)
+
+----
+
+![Learning Java](https://img.shields.io/badge/Learning-Java_OOP-blue?style=for-the-badge&logo=openjdk)
+![Exploring Cybersecurity](https://img.shields.io/badge/Exploring-PenTesting-green?style=for-the-badge&logo=gnuprivacyguard)
+
+
+----
+
 ### 🔐 Cybersecurity Tools & Technologien
 
 ![Nmap](https://img.shields.io/badge/Nmap-7C7C7C?style=for-the-badge&logo=nmap&logoColor=white)
@@ -81,6 +102,17 @@
 ![Proxychains](https://img.shields.io/badge/Proxychains-2E2E2E?style=for-the-badge&logo=torproject&logoColor=7E4798)
 ![Metasploitable](https://img.shields.io/badge/Metasploitable-1F1F1F?style=for-the-badge&logo=metasploit&logoColor=39FF14)
 
+
+### Lab-Setup
+```text
++-----------+        +-----------+        +-----------+
+| Parrot OS | <----> | pfSense   | <----> | Kali Linux|
++-----------+        +-----------+        +-----------+
+     ^                                         |
+     |                                         v
+   Host OS (Windows / Linux)  ---->   Targets (Metasploitable, DVWA)
+```
+
 ---
 
 ### 📂 Highlight Projects
@@ -89,7 +121,16 @@
 - 📊 [**Stundensatz_Kalkulator**](https://github.com/bitRaybytes/Stundensatz_Kalkulator) – Python-Tool für Stundensätze  
 - 🏫 [**Parkscheinautomat_Schoolproject**](https://github.com/bitRaybytes/Parkscheinautomat_Schoolproject) – Java-Schulprojekt  
 - 🌐 [**crm-projekt**](https://github.com/bitRaybytes/crm-projekt) – CRM-System mit HTML/CSS  
-- 🔐 [**cybersecurity**](https://github.com/bitRaybytes/cybersecurity) – Einstieg in IT-Sicherheit  
+- 🔐 [**cybersecurity**](https://github.com/bitRaybytes/cybersecurity) – Einstieg in IT-Sicherheit
+- 📑 [**Network-CheatSheets**](https://github.com/bitRaybytes/cybersecurity/tree/main/02-network-security) – Dokumentationen zu Protokollen, OSI/TCP-IP & Security
+
+#### Projekt-Features
+
+🗂️ [**KarteikartenApp**](https://github.com/bitRaybytes/KarteikartenApp)  
+- MVC-Architektur (Java Swing)  
+- Kategorienverwaltung, Multiple-Choice, Fortschritts-Tracking  
+- Speicherung in MySQL  
+
 
 ---
 
