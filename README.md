@@ -75,11 +75,14 @@
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Parrot%20OS-15E0BD?style=for-the-badge&logo=parrotsecurity&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BD2?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
 ![pip](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=pypi&logoColor=white)
 ![ProtonMail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)
+
+#### 🧰 OS
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BD2?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot%20OS-15E0BD?style=for-the-badge&logo=parrotsecurity&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
