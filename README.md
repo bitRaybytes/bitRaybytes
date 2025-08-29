@@ -26,6 +26,16 @@
 - 📊 Implementiere **Projekt-Funktionalitäten** wie Lernfortschritt, Multiple-Choice-Management und dynamische Anzeige von Daten in Apps
 - 🔐 Ziel: Einstieg in die **Cybersecurity** (PenTesting & Security Analysis)
 
+---
+
+### Meine Weiterbildungen ohne Zertifizierung
+- [Hack The Box](https://www.hackthebox.com/) – Cybersecurity Labs & Challenges  
+- [TryHackMe](https://tryhackme.com/) – Interaktive Hacking-Lernplattform  
+- [picoCTF](https://picoctf.org/) – Capture-the-Flag von Carnegie Mellon University  
+- [SQL Island](https://sql-island.informatik.uni-kl.de/) – Gamifizierter SQL-Lernkurs  
+- [freeCodeCamp](https://www.freecodecamp.org/) – Web Development & Zertifikate  
+- [The Odin Project](https://www.theodinproject.com/) – Full-Stack Development Curriculum  
+- [Bootstrap Academy](https://bootstrap.academy/) – Alles zu IT von Cedric Mössner
 
 ---
 
