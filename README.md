@@ -75,7 +75,7 @@
 
 ### 📐 Software-Architektur & Patterns
 - MVC-Architektur in Java (Swing-Apps, Lernkarten-App)
-- Nutzung von Design Patterns (Observer, Listener, DAO)
+- Nutzung von Design Patterns (Observer, Listener)
 - Relationale Datenbanken (MySQL, MariaDB, SQLite) – CRUD-Operationen, ORM
 - REST-APIs (in Planung mit Node.js / Express)
 
