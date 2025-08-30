@@ -84,17 +84,8 @@
 ![Parrot OS](https://img.shields.io/badge/Parrot%20OS-15E0BD?style=for-the-badge&logo=parrotsecurity&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
----
 
-### 📐 Software-Architektur & Patterns
-- MVC-Architektur in Java (Swing-Apps, Lernkarten-App)
-- Nutzung von Design Patterns (Observer, Listener)
-- Relationale Datenbanken (MySQL, MariaDB, SQLite) – CRUD-Operationen, ORM
-- REST-APIs (in Planung mit Node.js / Express)
-
-----
-
-### 🔐 Cybersecurity Tools & Technologien
+#### 🔐 Cybersecurity Tools & Technologien
 
 ![Nmap](https://img.shields.io/badge/Nmap-7C7C7C?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-005E94?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -110,7 +101,7 @@
 ![Metasploitable](https://img.shields.io/badge/Metasploitable-1F1F1F?style=for-the-badge&logo=metasploit&logoColor=39FF14)
 
 
-### Lab-Setup
+#### Lab-Setup
 ```text
 +-----------+        +-----------+        +-----------+
 | Parrot OS | <----> | pfSense   | <----> | Kali Linux|
@@ -122,7 +113,7 @@
 
 ---
 
-### 📂 Highlight Projects
+### 📂 Highlights Projelte
 
 - 🗂️ [**KarteikartenApp**](https://github.com/bitRaybytes/KarteikartenApp) – Java-App zum Lernen mit MVC  
 - 📊 [**Stundensatz_Kalkulator**](https://github.com/bitRaybytes/Stundensatz_Kalkulator) – Python-Tool für Stundensätze  
@@ -138,8 +129,14 @@
 - Kategorienverwaltung, Multiple-Choice, Fortschritts-Tracking  
 - Speicherung in MySQL  
 
+#### 📐 Software-Architektur & Patterns
+- MVC-Architektur in Java (Swing-Apps, Lernkarten-App)
+- Nutzung von Design Patterns (Observer, Listener)
+- Relationale Datenbanken (MySQL, MariaDB, SQLite) – CRUD-Operationen, ORM
+- REST-APIs (in Planung mit Node.js / Express)
 
----
+
+----
 
 ### 📊 GitHub Stats
 
