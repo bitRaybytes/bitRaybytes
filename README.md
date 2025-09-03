@@ -1,7 +1,7 @@
 <!-- Profil-README für bitRaybytes -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0a0a23&text=Cybersecurity&fontAlign=50&fontAlignY=50&fontColor=00ff88&stroke=00ff88&strokeWidth=2&animation=blink" />  
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0a0a23&text=Hello%20World&fontAlign=50&fontAlignY=50&fontColor=00ff88&stroke=00ff88&strokeWidth=2&animation=blink" />  
 </p>
 
 <h1 align="center">Hi 👋, I'm Ray</h1>
@@ -12,6 +12,7 @@
 
 ![Learning Java](https://img.shields.io/badge/Learning-Java_OOP-blue?style=for-the-badge&logo=openjdk)
 ![Exploring Cybersecurity](https://img.shields.io/badge/Exploring-PenTesting-green?style=for-the-badge&logo=gnuprivacyguard)
+![Focus Cybersecurity](https://img.shields.io/badge/Focus-Cybeersecurity-red?style=for-the-badge&logo=chain)
 
 
 ### 👨‍💻 About Me
@@ -102,13 +103,29 @@
 
 
 #### Lab-Setup
-```text
-+-----------+        +-----------+        +-----------+
-| Parrot OS | <----> | pfSense   | <----> | Kali Linux|
-+-----------+        +-----------+        +-----------+
-     ^                                         |
-     |                                         v
-   Host OS (Windows / Linux)  ---->   Targets (Metasploitable, DVWA)
+```yaml
+
+    OSINT,                                   Angriff,
+Reconaissance                               Exploits
++-----------+                             +------------+       +-----------------------------+
+|   OPSec   |                             |  Hacking   |------>| Metasploitable2, DVWA, usw. |
++-----------+                             +------------+       +-----------------------------+
+     ^                  Zugriff                 ^
+     |                auf Internet              |
+     |                  über FW                 |
++-----------+        +-----------+        +------------+
+| Parrot OS | <----> |  pfSense  | <----> | Kali Linux |
++-----------+        +-----------+        +------------+
+     ^                    ^                    ^
+     |                    |                    |
+     +--------------------+--------------------+
+                          ^
+                          |
++------------------------------------------------------+
+|   Host OS (Windows) - Totale Isolation von VM        |
+|   => Keine Gast-Erweiterungen aktiviert              |
++-------------------------------------------------------
+
 ```
 
 ---
