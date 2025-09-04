@@ -12,7 +12,7 @@
 
 ![Learning Java](https://img.shields.io/badge/Learning-Java_OOP-blue?style=for-the-badge&logo=openjdk)
 ![Exploring Cybersecurity](https://img.shields.io/badge/Exploring-PenTesting-green?style=for-the-badge&logo=gnuprivacyguard)
-![Focus Cybersecurity](https://img.shields.io/badge/Focus-Cybeersecurity-red?style=for-the-badge&logo=chain)
+![Focus Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logo=chain)
 
 
 ### 👨‍💻 About Me
