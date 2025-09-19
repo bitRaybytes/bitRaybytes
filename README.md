@@ -4,45 +4,48 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0a0a23&text=Hello%20World&fontAlign=50&fontAlignY=50&fontColor=00ff88&stroke=00ff88&strokeWidth=2&animation=blink" />  
 </p>
 
-<h1 align="center">Hi 👋, I'm Ray</h1>
-<h3 align="center">🎓 Umschulung zum Fachinformatiker für Anwendungsentwicklung (07/2024–07/2026)</h3>  
+<h1 align="center">Hi 👋, ich bin Ray</h1>
+<h3 align="center">🎓 Angehender Fachinformatiker für Anwendungsentwicklung (Umschulung: 07/2024–07/2026)</h3>  
 <h3 align="center">📚 Fokus: Java, Datenbanken, Netzwerke, Cybersecurity</h3>
 
----
+
 
 ![Learning Java](https://img.shields.io/badge/Learning-Java_OOP-blue?style=for-the-badge&logo=openjdk)
 ![Exploring Cybersecurity](https://img.shields.io/badge/Exploring-PenTesting-green?style=for-the-badge&logo=gnuprivacyguard)
 ![Focus Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logo=chain)
 
 
-### 👨‍💻 About Me
-- 🎓 Umschulung zum Fachinformatiker für Anwendungsentwicklung (07/2024–07/2026)  
-- 📚 Fokus: Java, Datenbanken, Netzwerke, Cybersecurity
-- 💻 Begeistert von **Programmierung**, **Webentwicklung** und **Cybersecurity**
+## 👨‍💻 About Me
+
+Ich bin ein angehender **Fachinformatiker für Anwendungsentwicklung** mit einer Leidenschaft für **Programmierung** und **Cybersecurity**. Derzeit vertiefe ich meine Kenntnisse in **Java**, **SQL**, **Python**, **Bash** sowie **Cybersecurity** und entwickle daneben eigene Projekte.
+
+- 🎓 Umschulung zum FIAE (07/2024–07/2026)
+- 🎯 Ziel: Einstieg in die **Cybersecurity** (PenTesting & Security Analysis)
+- 💻 Ich arbeite primär auf **Linux- und Mac-Systemen**, nutze Windows für VMs
+- 🚀 Meine Projekte reichen von **Java-basierten Tools** mit MVC-Architektur bis zu **Datenbank-Lösungen** für Stundenpläne und CRM-Systeme sowie System-Tools (Port-Scanner, usw.).
+- 🔐 Ich setze mich aktiv mit **Cybersecurity** auseinander und lerne PenTesting und Reverse Engineering in meinem Heim-Lab.
 - 👨🏻‍💻 Betriebssysteme nutze ich überwiegend Linux, Mac und Windows (Host für VMs)
-- 🎯 Aktuell lerne ich viel **Java**, **SQL**, **Python**, **JavaScript** und **BashScripting**
-- 🚀 Arbeite an Projekten von **Schul-Apps**, **eigenen Tools** bis hin zu **Webprojekten**
-- 🗂️ Entwickle **Datenbank- und Dashboard-Lösungen**, z.B. Stundenplan-Tools und CRM-Systeme
-- 📝 Setze **MVC-Architektur** in eigenen Java-Anwendungen um, wie z.B. in der Karteikarten-App
-- 📊 Implementiere **Projekt-Funktionalitäten** wie Lernfortschritt, Multiple-Choice-Management und dynamische Anzeige von Daten in Apps
-- 🔐 Ziel: Einstieg in die **Cybersecurity** (PenTesting & Security Analysis)
 
----
 
-### Meine Weiterbildungen ohne Zertifizierung
-- [Hack The Box](https://www.hackthebox.com/) – Cybersecurity Labs & Challenges  
-- [TryHackMe](https://tryhackme.com/) – Interaktive Hacking-Lernplattform  
-- [picoCTF](https://picoctf.org/) – Capture-the-Flag von Carnegie Mellon University  
-- [SQL Island](https://sql-island.informatik.uni-kl.de/) – Gamifizierter SQL-Lernkurs  
-- [freeCodeCamp](https://www.freecodecamp.org/) – Web Development & Zertifikate  
-- [The Odin Project](https://www.theodinproject.com/) – Full-Stack Development Curriculum  
-- [Bootstrap Academy](https://bootstrap.academy/) – Alles zu IT von Cedric Mössner
 
----
+## 📚 Praktische Weiterbildung & Labs
 
-### 🛠️ Tech Stack
+Diese Plattformen nutze ich, um meine praktischen Skills zu schärfen:
 
-#### 💻 Languages
+- **[Hack The Box](https://www.hackthebox.com/)**: Cybersecurity Labs & Challenges.
+- **[TryHackMe](https://tryhackme.com/)**: Interaktive Hacking-Lernplattform.
+- **[picoCTF](https://picoctf.org/)**: Capture-the-Flag von Carnegie Mellon University.
+- **[SQL Island](https://sql-island.informatik.uni-kl.de/)**: Gamifizierter SQL-Lernkurs.
+- **[freeCodeCamp](https://www.freecodecamp.org/)**: Web Development & Zertifikate.
+- **[The Odin Project](https://www.theodinproject.com/)**: Full-Stack Development Curriculum.
+- **[Bootstrap Academy](https://bootstrap.academy/)**: IT-Grundlagen von Cedric Mössner.
+- **[Eigene Home-Labs](https://github.com/bitRaybytes/cybersecurity/tree/main/09-practice-labs)**: Eigene Testumgebungen, um Angriffe zu simulieren.
+
+
+
+## 🛠️ Tech Stack
+
+### 💻 Programmiersprachen
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -54,7 +57,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 
-#### 🧰 Tools & Frameworks
+### 🧰 Tools & Frameworks
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
@@ -80,13 +83,13 @@
 ![pip](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=pypi&logoColor=white)
 ![ProtonMail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)
 
-#### 🧰 OS
+### 🧰 OS
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BD2?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot%20OS-15E0BD?style=for-the-badge&logo=parrotsecurity&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-#### 🔐 Cybersecurity Tools & Technologien
+### 🔐 Cybersecurity Tools & Technologien
 
 ![Nmap](https://img.shields.io/badge/Nmap-7C7C7C?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-005E94?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -102,8 +105,8 @@
 ![Metasploitable](https://img.shields.io/badge/Metasploitable-1F1F1F?style=for-the-badge&logo=metasploit&logoColor=39FF14)
 
 
-#### Lab-Setup
-```yaml
+### Lab-Setup
+```text
 
     OSINT,                                   Angriff,
 Reconaissance                               Exploits
@@ -128,34 +131,29 @@ Reconaissance                               Exploits
 
 ```
 
----
-
-### 📂 Highlights Projelte
-
-- 🗂️ [**KarteikartenApp**](https://github.com/bitRaybytes/KarteikartenApp) – Java-App zum Lernen mit MVC  
-- 📊 [**Stundensatz_Kalkulator**](https://github.com/bitRaybytes/Stundensatz_Kalkulator) – Python-Tool für Stundensätze  
-- 🏫 [**Parkscheinautomat_Schoolproject**](https://github.com/bitRaybytes/Parkscheinautomat_Schoolproject) – Java-Schulprojekt  
-- 🌐 [**crm-projekt**](https://github.com/bitRaybytes/crm-projekt) – CRM-System mit HTML/CSS  
-- 🔐 [**cybersecurity**](https://github.com/bitRaybytes/cybersecurity) – Einstieg in IT-Sicherheit
-- 📑 [**Network-CheatSheets**](https://github.com/bitRaybytes/cybersecurity/tree/main/02-network-security) – Dokumentationen zu Protokollen, OSI/TCP-IP & Security
-
-#### Projekt-Features
-
-🗂️ [**KarteikartenApp**](https://github.com/bitRaybytes/KarteikartenApp)  
-- MVC-Architektur (Java Swing)  
-- Kategorienverwaltung, Multiple-Choice, Fortschritts-Tracking  
-- Speicherung in MySQL  
-
-#### 📐 Software-Architektur & Patterns
-- MVC-Architektur in Java (Swing-Apps, Lernkarten-App)
-- Nutzung von Design Patterns (Observer, Listener)
-- Relationale Datenbanken (MySQL, MariaDB, SQLite) – CRUD-Operationen, ORM
-- REST-APIs (in Planung mit Node.js / Express)
 
 
-----
 
-### 📊 GitHub Stats
+### 📂 Ausgewählte Projekte
+
+- 🗂️ [**KarteikartenApp**](https://github.com/bitRaybytes/KarteikartenApp)
+  - Java-App, die das Lernen mit Flashcards unterstützt
+  - Implementiert mit **MVC-Architektur** (Java Swing)
+  - Speicherung der Daten in einer **MySQL**-Datenbank
+  - Features: Kategorienverwaltung, Fortschritts-Tracking, Multiple-Choice-Funktionalität
+
+- 📊 [**CRM**](https://github.com/bitRaybytes/crm-projekt)
+  - Eine CRM-Webanwendung in HTML, CSS und JS.
+
+- 🏫 [**Parkscheinautomat_Schoolproject**](https://github.com/bitRaybytes/Parkscheinautomat_Schoolproject)
+  - Ein Java-Schulprojekt, das grundlegende Konzepte der Objektorientierung demonstriert
+
+- 🔐 [**Cybersecurity-Hub**](https://github.com/bitRaybytes/cybersecurity/tree/main/02-network-security)
+  - Umfangreiche Dokumentationen und Grundlagen in Cybersecurity und Penetrations-Test
+
+
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bitRaybytes&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_border=true&card_width=400" alt="stats"/>
@@ -166,11 +164,10 @@ Reconaissance                               Exploits
 </p>
 
 
----
 
-### 🌐 Connect with me
+## 🌐 Connect with me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/bitRaybytes" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
