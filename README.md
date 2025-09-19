@@ -24,7 +24,6 @@ Ich bin ein angehender **Fachinformatiker für Anwendungsentwicklung** mit einer
 - 💻 Ich arbeite primär auf **Linux- und Mac-Systemen**, nutze Windows für VMs
 - 🚀 Meine Projekte reichen von **Java-basierten Tools** mit MVC-Architektur bis zu **Datenbank-Lösungen** für Stundenpläne und CRM-Systeme sowie System-Tools (Port-Scanner, usw.).
 - 🔐 Ich setze mich aktiv mit **Cybersecurity** auseinander und lerne PenTesting und Reverse Engineering in meinem Heim-Lab.
-- 👨🏻‍💻 Betriebssysteme nutze ich überwiegend Linux, Mac und Windows (Host für VMs)
 
 
 
