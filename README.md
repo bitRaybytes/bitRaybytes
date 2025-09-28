@@ -147,7 +147,7 @@ Reconaissance                               Exploits
 - 🏫 [**Parkscheinautomat_Schoolproject**](https://github.com/bitRaybytes/Parkscheinautomat_Schoolproject)
   - Ein Java-Schulprojekt, das grundlegende Konzepte der Objektorientierung demonstriert
 
-- 🔐 [**Cybersecurity-Hub**](https://github.com/bitRaybytes/cybersecurity/tree/main/02-network-security)
+- 🔐 [**Cybersecurity-Hub**](https://github.com/bitRaybytes/cybersecurity/)
   - Umfangreiche Dokumentationen und Grundlagen in Cybersecurity und Penetrations-Test
 
 
