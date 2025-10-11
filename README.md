@@ -85,14 +85,14 @@ Diese Plattformen nutze ich, um meine praktischen Skills zu schärfen:
 ### 🧰 OS
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BD2?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot%20OS-15E0BD?style=for-the-badge&logo=parrotsecurity&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Whonix User](https://img.shields.io/badge/Whonix-000000?style=for-the-badge&color=2E8B57&logoColor=white&link=https://www.whonix.org/)
 
 ### 🔐 Cybersecurity Tools & Technologien
 
 ![Nmap](https://img.shields.io/badge/Nmap-7C7C7C?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-005E94?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-39FF14?style=for-the-badge&logo=metasploit&logoColor=black)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F24E1E?style=for-the-badge&logo=portswigger&logoColor=white)
 ![Hashcat](https://img.shields.io/badge/Hashcat-5C1C1C?style=for-the-badge&logo=hashcat&logoColor=white)
 ![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-000000?style=for-the-badge&logo=John-the-Ripper&logoColor=white)
