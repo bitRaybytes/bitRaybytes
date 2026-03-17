@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi 👋, ich bin Ray</h1>
-<h2 align="center">Angehender Fachinformatiker (FIAE) mit Fokus auf Cybersecurity & Java</h2>
+<h2 align="center">Angehender Fachinformatiker (FIAE) mit Fokus auf Cybersecurity, Java & Backend</h2>
 <h3 align="center">Umschulung: 07/2024 – 07/2026</h3>
 
 <p align="center">
@@ -19,10 +19,10 @@
 
 Ich bin ein angehender **Fachinformatiker für Anwendungsentwicklung** mit einer Leidenschaft für **Programmierung** und **Cybersecurity**. Derzeit vertiefe ich meine Kenntnisse in **Java**, **SQL**, **Python**, **Bash** sowie **Cybersecurity** und entwickle daneben eigene Projekte.
 
-- 🎯 Ziel: Einstieg in die **Cybersecurity** (PenTesting & Security Analysis)
+- 🎯 Ziel: Einstieg in die **Cybersecurity** (PenTesting & Security Analysis) oder **Fullstack-Entwicklung**
 - 💻 Ich arbeite primär auf **Linux- und Mac-Systemen**, nutze Windows für VMs
-- 🚀 Meine Projekte reichen von **Java-basierten Tools** mit MVC-Architektur bis zu **Datenbank-Lösungen** für Stundenpläne und CRM-Systeme sowie System-Tools (Port-Scanner, usw.).
-- 🔐 Ich setze mich aktiv mit **Cybersecurity** auseinander und lerne PenTesting und Reverse Engineering in meinem Home-Lab.
+- 🚀 Meine Projekte reichen von **Java-basierten Tools** mit MVC-Architektur bis zu **Datenbank-Lösungen** für Stundenpläne und CRM-Systeme mit REST-Schnittstellen sowie System-Tools (Port-Scanner, usw.).
+- 🔐 Ich setze mich aktiv mit **Cybersecurity**, **Java** und **REST API-Programmierung** auseinander und lerne neben Pentesting auch das Entwicklen von Web-Applikationen mit REST.
 
 
 
@@ -151,15 +151,18 @@ Reconaissance                               Exploits
   - Speicherung der Daten in einer **MySQL**-Datenbank
   - Features: Kategorienverwaltung, Fortschritts-Tracking, Multiple-Choice-Funktionalität
 
-- [**CRM**](https://github.com/bitRaybytes/crm-projekt)
-  - Eine CRM-Webanwendung in HTML, CSS und JS.
+- [**CRM**](https://github.com/bitRaybytes/CvBuilderPlatform)
+  - Eine Webanwendung in HTML, CSS und JS im Frontend und Java im Backend.
+  - Architektur und Framework: Maven und Springboot.
 
 - [**Parkscheinautomat_Schoolproject**](https://github.com/bitRaybytes/Parkscheinautomat_Schoolproject)
   - Ein Java-Schulprojekt, das grundlegende Konzepte der Objektorientierung demonstriert
 
-- [**Cybersecurity-Hub**](https://github.com/bitRaybytes/cybersecurity/)
+- [**Cybersecurity-Hub**](https://github.com/bitRaybytes/cybersecurity/) (wurde zu einer privaten Repository)
   - Umfangreiche Dokumentationen und Grundlagen in Cybersecurity und Penetrations-Test
 
+- [**CodeKnowledgeFactory**](https://github.com/bitRaybytes/CodeKnowledgeFactory)
+  - Behandelt grundlegende Konzepte in Java, JavaScript und der Programmmierung im Allgemeinen.
 
 
 ## 📊 GitHub Stats
