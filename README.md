@@ -151,7 +151,7 @@ Reconaissance                               Exploits
   - Speicherung der Daten in einer **MySQL**-Datenbank
   - Features: Kategorienverwaltung, Fortschritts-Tracking, Multiple-Choice-Funktionalität
 
-- [**CRM**](https://github.com/bitRaybytes/CvBuilderPlatform)
+- [**CvBuilderPlatform**](https://github.com/bitRaybytes/CvBuilderPlatform)
   - Eine Webanwendung in HTML, CSS und JS im Frontend und Java im Backend.
   - Architektur und Framework: Maven und Springboot.
 
