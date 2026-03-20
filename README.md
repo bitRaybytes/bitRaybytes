@@ -1,30 +1,24 @@
 <!-- Profil-README für bitRaybytes -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0a0a23&text=Willkommen!&fontAlign=50&fontAlignY=50&fontColor=00ff88&stroke=00ff88&strokeWidth=2&animation=blink" />  
 </p>
-
 <h1 align="center">Hi 👋, ich bin Ray</h1>
-<h2 align="center">Angehender Fachinformatiker (FIAE) mit Fokus auf Cybersecurity, Java & Backend</h2>
-<h3 align="center">Umschulung: 07/2024 – 07/2026</h3>
-
+<h2 align="center">Fachinformatiker für Anwendungsentwicklung (FIAE) – Fokus auf Cybersecurity & Fullstack</h2>
+<h3 align="center">Abschluss: 07/2026 | Offen für Einstieg & Praktikum</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Learning-Java_OOP-blue?style=for-the-badge&logo=openjdk">
   <img src="https://img.shields.io/badge/Exploring-PenTesting-green?style=for-the-badge&logo=gnuprivacyguard">
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logo=chain">
 </p>
 
-
 ## 👨‍💻 About Me
 
-Ich bin ein angehender **Fachinformatiker für Anwendungsentwicklung** mit einer Leidenschaft für **Programmierung** und **Cybersecurity**. Derzeit vertiefe ich meine Kenntnisse in **Java**, **SQL**, **Python**, **Bash** sowie **Cybersecurity** und entwickle daneben eigene Projekte.
+Ich bin **Fachinformatiker für Anwendungsentwicklung** mit einer Leidenschaft für **Programmierung** und **Cybersecurity**. Ich vertiefe meine Kenntnisse in **Java**, **Datenbanken**, **Python**, **Bash** sowie **Cybersecurity** und entwickle daneben aktiv eigene Projekte.
 
 - 🎯 Ziel: Einstieg in die **Cybersecurity** (PenTesting & Security Analysis) oder **Fullstack-Entwicklung**
 - 💻 Ich arbeite primär auf **Linux- und Mac-Systemen**, nutze Windows für VMs
 - 🚀 Meine Projekte reichen von **Java-basierten Tools** mit MVC-Architektur bis zu **Datenbank-Lösungen** für Stundenpläne und CRM-Systeme mit REST-Schnittstellen sowie System-Tools (Port-Scanner, usw.).
-- 🔐 Ich setze mich aktiv mit **Cybersecurity**, **Java** und **REST API-Programmierung** auseinander und lerne neben Pentesting auch das Entwicklen von Web-Applikationen mit REST.
-
-
+- 🔐 Ich setze mich aktiv mit **Cybersecurity**, **Java** und **REST API-Programmierung** auseinander und lerne neben Pentesting auch das Entwickeln von Web-Applikationen mit REST & Spring Boot.
 
 ## 📚 Praktische Weiterbildung & Labs
 
@@ -39,8 +33,6 @@ Diese Plattformen nutze ich, um meine praktischen Skills zu schärfen:
 - **[Bootstrap Academy](https://bootstrap.academy/)**: IT-Grundlagen von Cedric Mössner.
 - **[Eigene Home-Labs](https://github.com/bitRaybytes/cybersecurity/tree/main/09-practice-labs)**: Eigene Testumgebungen, um Angriffe zu simulieren.
 
-
-
 ## 🛠️ Tech Stack
 
 ### Sprachen
@@ -54,21 +46,22 @@ Diese Plattformen nutze ich, um meine praktischen Skills zu schärfen:
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-
 ### Datenbanken
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
 ### Frameworks, Bibliotheken & Laufzeitumgebungen
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java%20Swing-5382A1?style=for-the-badge&logo=coffeescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
 
 ### DevOps, Virtualisierung & Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -76,7 +69,6 @@ Diese Plattformen nutze ich, um meine praktischen Skills zu schärfen:
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-
 
 ### IDEs & Design Tools
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
@@ -90,14 +82,12 @@ Diese Plattformen nutze ich, um meine praktischen Skills zu schärfen:
 ![Tor](https://img.shields.io/badge/Tor-7E4798?style=for-the-badge&logo=torproject&logoColor=white)
 ![ProtonMail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)
 
-
 ### Betriebssysteme
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BD2?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot%20OS-15E0BD?style=for-the-badge&logo=parrotsecurity&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Whonix User](https://img.shields.io/badge/Whonix-000000?style=for-the-badge&color=2E8B57&logoColor=white&link=https://www.whonix.org/)
-
 
 ### Cybersecurity Tools
 ![Nmap](https://img.shields.io/badge/Nmap-7C7C7C?style=for-the-badge&logo=nmap&logoColor=white)
@@ -112,11 +102,8 @@ Diese Plattformen nutze ich, um meine praktischen Skills zu schärfen:
 ![Proxychains](https://img.shields.io/badge/Proxychains-2E2E2E?style=for-the-badge&logo=torproject&logoColor=7E4798)
 ![Metasploitable](https://img.shields.io/badge/Metasploitable-1F1F1F?style=for-the-badge&logo=metasploit&logoColor=39FF14)
 
-
 ### Lab-Setup
-
 ```text
-
     OSINT,                                   Angriff,
 Reconaissance                               Exploits
 +-----------+                             +------------+       +-----------------------------+
@@ -137,13 +124,16 @@ Reconaissance                               Exploits
 |   Host OS (Windows) - Totale Isolation von VM        |
 |   => Keine Gast-Erweiterungen aktiviert              |
 +-------------------------------------------------------
-
 ```
 
+## 📂 Ausgewählte Projekte
 
-
-
-### 📂 Ausgewählte Projekte
+- [**CvBuilderPlatform**](https://github.com/bitRaybytes/CvBuilderPlatform) ⭐ *Aktuellstes Projekt*
+  - Vollständige Webanwendung zur Erstellung und Verwaltung von Lebensläufen
+  - **Backend**: Java mit **Spring Boot**, strukturiert mit **Maven**
+  - **REST API**: Sauber designte API-Endpunkte für CRUD-Operationen
+  - **Frontend**: HTML, CSS & JavaScript – responsive UI
+  - Architektur nach **MVC-Prinzip**, klare Trennung von Controller, Service und Repository-Layer
 
 - [**KarteikartenApp**](https://github.com/bitRaybytes/KarteikartenApp)
   - Java-App, die das Lernen mit Flashcards unterstützt
@@ -151,19 +141,15 @@ Reconaissance                               Exploits
   - Speicherung der Daten in einer **MySQL**-Datenbank
   - Features: Kategorienverwaltung, Fortschritts-Tracking, Multiple-Choice-Funktionalität
 
-- [**CvBuilderPlatform**](https://github.com/bitRaybytes/CvBuilderPlatform)
-  - Eine Webanwendung in HTML, CSS und JS im Frontend und Java im Backend.
-  - Architektur und Framework: Maven und Springboot.
-
 - [**Parkscheinautomat_Schoolproject**](https://github.com/bitRaybytes/Parkscheinautomat_Schoolproject)
   - Ein Java-Schulprojekt, das grundlegende Konzepte der Objektorientierung demonstriert
 
-- [**Cybersecurity-Hub**](https://github.com/bitRaybytes/cybersecurity/) (wurde zu einer privaten Repository)
-  - Umfangreiche Dokumentationen und Grundlagen in Cybersecurity und Penetrations-Test
-
 - [**CodeKnowledgeFactory**](https://github.com/bitRaybytes/CodeKnowledgeFactory)
-  - Behandelt grundlegende Konzepte in Java, JavaScript und der Programmmierung im Allgemeinen.
+  - Behandelt grundlegende Konzepte in Java, JavaScript und der Programmierung im Allgemeinen.
 
+- **Cybersecurity-Hub** *(privates Repository)*
+  - Umfangreiche Dokumentationen und Grundlagen in Cybersecurity und Penetrations-Testing
+  - Aus Sicherheitsgründen nicht öffentlich zugänglich – Einblick auf Anfrage möglich
 
 ## 📊 GitHub Stats
 
@@ -175,13 +161,14 @@ Reconaissance                               Exploits
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitRaybytes&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="langs" />
 </p>
 
-
-
 ## 🌐 Connect with me
 
 <p align="center">
   <a href="https://github.com/bitRaybytes" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/DEIN-PROFIL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:bitraybytes@proton.me" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -189,7 +176,5 @@ Reconaissance                               Exploits
 </p>
 
 <p align="right"> 
-  
   <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=1a1b27&fontAlign=50&fontAlignY=50&animation=blink&section=footer&reversal=false"/>
-  
 </p>
