@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-Ich bin **Fachinformatiker für Anwendungsentwicklung** mit einer Leidenschaft für **Programmierung** und **Cybersecurity**. Ich vertiefe meine Kenntnisse in **Java**, **Datenbanken**, **Python**, **Bash** sowie **Cybersecurity** und entwickle daneben aktiv eigene Projekte.
+Ich bin **Fachinformatiker für Anwendungsentwicklung** in Ausbildung mit einer Leidenschaft für **Programmierung** und **Cybersecurity**. Ich vertiefe meine Kenntnisse in **Java**, **Datenbanken**, **Python**, **Bash** sowie **Cybersecurity** und entwickle daneben aktiv eigene Projekte.
 
 - 🎯 Ziel: Einstieg in die **Cybersecurity** (PenTesting & Security Analysis) oder **Fullstack-Entwicklung**
 - 💻 Ich arbeite primär auf **Linux- und Mac-Systemen**, nutze Windows für VMs
