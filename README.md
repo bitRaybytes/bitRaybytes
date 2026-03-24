@@ -148,8 +148,9 @@ Reconaissance                               Exploits
 - [**CodeKnowledgeFactory**](https://github.com/bitRaybytes/CodeKnowledgeFactory)
   - Behandelt grundlegende Konzepte in Java, JavaScript und der Programmierung.
 
-- [**Parkscheinautomat_Schoolproject**](https://github.com/bitRaybytes/Parkscheinautomat_Schoolproject)
-  - Ein Java-Schulprojekt, das grundlegende Konzepte der Objektorientierung demonstriert
+- [**FileIntegrityChecker**](https://github.com/bitRaybytes/FileIntegrityChecker)
+  - Hash-Vergleich (SHA-256, MD5) zur Dateiintegritätsprüfung
+  - Technologie auf JavaFX und Maven
 
 - **Cybersecurity-Hub** *(privates Repository)*
   - Umfangreiche Dokumentationen und Grundlagen in Cybersecurity und Penetrations-Testing
