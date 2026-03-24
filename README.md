@@ -135,21 +135,21 @@ Reconaissance                               Exploits
   - **Frontend**: HTML, CSS & JavaScript – responsive UI
   - Architektur nach **MVC-Prinzip**, klare Trennung von Controller, Service und Repository-Layer
 
-- [**KarteikartenApp**](https://github.com/bitRaybytes/KarteikartenApp)
-  - Java-App, die das Lernen mit Flashcards unterstützt
-  - Implementiert mit **MVC-Architektur** (Java Swing)
-  - Speicherung der Daten in einer **MySQL**-Datenbank
-  - Features: Kategorienverwaltung, Fortschritts-Tracking, Multiple-Choice-Funktionalität
+- [**CodeKnowledgeFactory**](https://github.com/bitRaybytes/CodeKnowledgeFactory)
+  - Behandelt grundlegende Konzepte in Java, JavaScript und der Programmierung.
 
 - [**Parkscheinautomat_Schoolproject**](https://github.com/bitRaybytes/Parkscheinautomat_Schoolproject)
   - Ein Java-Schulprojekt, das grundlegende Konzepte der Objektorientierung demonstriert
 
-- [**CodeKnowledgeFactory**](https://github.com/bitRaybytes/CodeKnowledgeFactory)
-  - Behandelt grundlegende Konzepte in Java, JavaScript und der Programmierung im Allgemeinen.
-
 - **Cybersecurity-Hub** *(privates Repository)*
   - Umfangreiche Dokumentationen und Grundlagen in Cybersecurity und Penetrations-Testing
   - Aus Sicherheitsgründen nicht öffentlich zugänglich – Einblick auf Anfrage möglich
+
+- **KarteikartenApp** *(privates Repository)*
+  - Java-App, die das Lernen mit Flashcards unterstützt
+  - Implementiert mit **MVC-Architektur** (Java Swing)
+  - Speicherung der Daten in einer **MySQL**-Datenbank
+  - Features: Kategorienverwaltung, Fortschritts-Tracking, Multiple-Choice-Funktionalität
 
 ## 📊 GitHub Stats
 
