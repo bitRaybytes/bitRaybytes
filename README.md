@@ -125,7 +125,7 @@ Reconaissance                               Exploits
   - **Backend**: Java, Spring Boot, Maven | **Datenbank**: PostgreSQL | **Frontend**: HTML, CSS, JS
   - REST API mit CRUD-Operationen, MVC-Architektur, Controller/Service/Repository-Trennung
 
-- [**AlgorSuite – FileIntegrityChecker**](https://github.com/bitRaybytes/FileIntegrityChecker)
+- [**AlgoSuite – FileIntegrityChecker**](https://github.com/bitRaybytes/FileIntegrityChecker)
   - Desktop-Tool zur Analyse, Verifikation und Verarbeitung kryptografischer Verfahren
   - **Technologie**: JavaFX, Maven, MCV-orientierte Architektur
   - Sicherheitsrelevantes Tool – prüft ob Dateien unbemerkt verändert wurden
