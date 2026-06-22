@@ -26,7 +26,7 @@ Mein Weg in die IT war kein klassischer – ich komme aus Vertrieb und Unternehm
 - 🔐 **Security**: Eigenes HomeLab, Pentesting, Nmap, Burp Suite, Metasploit, Wireshark
 - 📚 **Lernplattformen**: Hack The Box, TryHackMe, picoCTF
 - 💡 **Hintergrund**: Beratung, Teamführung, CRM-Einführung – ich denke nicht nur technisch, sondern auch lösungsorientiert
-- 🌍 **Standort**: Raum Stuttgart / Wendlingen a. N.
+- 🌍 **Standort**: Raum Stuttgart
 
 ---
 
