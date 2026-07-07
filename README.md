@@ -120,7 +120,7 @@ Reconaissance                               Exploits
 
 ### 🔵 Java Backend
 
-- [**CvBuilderPlatform**](https://github.com/bitRaybytes/CvBuilderPlatform) ⭐ *Aktuellstes Projekt*
+- [**CvBuilderPlatform**](https://github.com/bitRaybytes/CvBuilderPlatform)
   - Webanwendung zur Erstellung und Verwaltung von Lebensläufen
   - **Backend**: Java, Spring Boot, Maven | **Datenbank**: PostgreSQL | **Frontend**: HTML, CSS, JS
   - REST API mit CRUD-Operationen, MVC-Architektur, Controller/Service/Repository-Trennung
