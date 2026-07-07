@@ -1,5 +1,3 @@
-<!-- Profil-README für bitRaybytes -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0a0a23&text=Willkommen!&fontAlign=50&fontAlignY=50&fontColor=00ff88&stroke=00ff88&strokeWidth=2&animation=blink" />  
 </p>
@@ -141,7 +139,7 @@ Reconaissance                               Exploits
 
 ### 🔴 Cybersecurity
 
-- [**VulnaRebel - vulnerable Web Application**](https://github.com/bitRaybytes/VulnaRebel) ⭐ *Aktuellstes Projekt*
+- **VulnaRebel - vulnerable Web Application** ⭐ *Aktuellstes Projekt - in Umsetzungsphase*
   - Eigenentwickelte vulnerable Web-Security-Trainingsplattform – modular und Docker basiert.
   - Eigener HTTP-Server und Routing ohne Framework, pures Java, PostgreSQL und JDBC.
   - Aktuell: SQLi-Login-Challenge – geplant sind weitere wie XSS, CSRF, IDOR, SSTI, Command Injection uvm.
