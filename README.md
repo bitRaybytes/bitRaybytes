@@ -139,7 +139,7 @@ Reconaissance                               Exploits
 
 ### 🔴 Cybersecurity
 
-- **VulnaRebel - vulnerable Web Application** ⭐ *Aktuellstes Projekt - in Umsetzungsphase*
+- [**VulnaRebel - vulnerable Web Application**](https://github.com/bitRaybytes/VulnaRebel) ⭐ *Aktuellstes Projekt*
   - Eigenentwickelte vulnerable Web-Security-Trainingsplattform – modular und Docker basiert.
   - Eigener HTTP-Server und Routing ohne Framework, pures Java, PostgreSQL und JDBC.
   - Aktuell: SQLi-Login-Challenge – geplant sind weitere wie XSS, CSRF, IDOR, SSTI, Command Injection uvm.
