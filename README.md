@@ -128,10 +128,6 @@ Reconaissance                               Exploits
   - **Technologie**: JavaFX, Maven, MCV-orientierte Architektur
   - Sicherheitsrelevantes Tool – prüft ob Dateien unbemerkt verändert wurden
 
-- [**KarteikartenApp**](https://github.com/bitRaybytes/KarteikartenApp)
-  - Lern-App mit MVC-Architektur (Java Swing), MySQL-Datenbank
-  - Features: Kategorienverwaltung, Fortschritts-Tracking, Multiple-Choice
-
 - [**CodeKnowledgeFactory**](https://github.com/bitRaybytes/CodeKnowledgeFactory)
   - Mein persönliches Nachschlagewerk für Java-Konzepte und Programmierung
   - Dokumentiere was ich lerne – zum Verstehen, Festigen und schnellen Wiederfinden
